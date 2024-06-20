@@ -12,7 +12,7 @@
 📫 Get in Touch
 
 - Email: aurelien.catala@outlook.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/aurelien-catala-76b379b9/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/aurelien-catala-76b379b9/)
 <!---
 DevDreamer2024/DevDreamer2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
